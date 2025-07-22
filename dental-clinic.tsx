@@ -72,7 +72,7 @@ export default function DentalClinicWebsite() {
                     Get Started
                   </Button>
                 </Link>
-                <Link href="/login">
+                {/* <Link href="/login">
                   <Button
                     variant="ghost"
                     size="sm"
@@ -81,7 +81,7 @@ export default function DentalClinicWebsite() {
                     <User className="h-4 w-4" />
                     <span>Log In</span>
                   </Button>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>
