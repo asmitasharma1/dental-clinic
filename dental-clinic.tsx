@@ -68,10 +68,10 @@ export default function DentalClinicWebsite() {
             <div className="flex items-center space-x-4">
               <Link href="#hero">
                 <Image
-                  src="/images/logo.jpeg"
+                  src="/images/logo.png"
                   alt="Smile by Dr. Kareen Logo"
-                  width={120}
-                  height={60}
+                  width={150}
+                  height={80}
                   className="h-12 w-auto cursor-pointer"
                 />
               </Link>
