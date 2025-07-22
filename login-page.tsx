@@ -29,7 +29,7 @@ export default function LoginPage() {
                                 className="h-12 w-auto"
                             />
                             <Link
-                                href="#hero"
+                                href="/#hero"
                                 className="text-gray-700 hover:text-teal-600 transition-all duration-300 font-medium relative group"
                             >
                                 ← Back to Home
@@ -38,21 +38,21 @@ export default function LoginPage() {
                         </div>
                         <nav className="hidden md:flex items-center space-x-8">
                             <Link
-                                href="#about"
+                                href="/#about"
                                 className="text-gray-700 hover:text-teal-600 transition-all duration-300 font-medium relative group"
                             >
                                 About Us
                                 <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-teal-500 to-teal-600 transition-all duration-300 group-hover:w-full rounded-full"></span>
                             </Link>
                             <Link
-                                href="#services"
+                                href="/#services"
                                 className="text-gray-700 hover:text-teal-600 transition-all duration-300 font-medium relative group"
                             >
                                 Services
                                 <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-teal-500 to-teal-600 transition-all duration-300 group-hover:w-full rounded-full"></span>
                             </Link>
                             <Link
-                                href="#contact"
+                                href="/#contact"
                                 className="text-gray-700 hover:text-teal-600 transition-all duration-300 font-medium relative group"
                             >
                                 Contact Us
