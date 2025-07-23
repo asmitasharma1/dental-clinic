@@ -623,7 +623,7 @@ export default function DentalClinicWebsite() {
             <div className="lg:col-span-2 space-y-6">
               <div className="flex items-center space-x-2">
                 <Image
-                  src="/placeholder.svg?height=60&width=120&text=Smile+Logo"
+                  src="/images/logo.png"
                   alt="Smile by Dr. Kareen Logo"
                   width={120}
                   height={60}

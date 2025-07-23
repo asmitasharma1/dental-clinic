@@ -22,7 +22,7 @@ export default function LoginPage() {
                     <div className="flex items-center justify-between">
                         <div className="flex items-center space-x-4">
                             <Image
-                                src="/images/logo.jpeg"
+                                src="/images/logo.png"
                                 alt="Smile by Dr. Kareen Logo"
                                 width={120}
                                 height={60}
